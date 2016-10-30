@@ -1,0 +1,13 @@
+/Users/teresacoffey/HW4/Temp/bin/Debug/UnityEngine.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/UnityEditor.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/Mono.Cecil.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/Unity.DataContract.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/teresacoffey/HW4/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/teresacoffey/HW4/Temp/bin/Debug/Mono.Cecil.Mdb.dll
