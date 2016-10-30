@@ -9,10 +9,12 @@ public class MemoryCard : MonoBehaviour {
 	public int id {
 		get {return _id;}
 	}
+
 	public void SetCard(int id, Sprite image) {
 		_id = id;
 		GetComponent<SpriteRenderer>().sprite = image;
 	}
+
 	public void OnMouseDown() {
 		if (cardBack.activeSelf && controller.canReveal) {
 			cardBack.SetActive(false);
